@@ -1,0 +1,30 @@
+.carte {
+    align-content: center;
+    }
+
+.Nord, .Sud, .Ouest, .Est   {
+    width : 250px;
+    height : 250px;
+    border-color: black;
+                            }
+
+.Nord   {
+
+    background-color: rgb(255, 0, 0);
+                            }
+
+.Sud   {
+
+    background-color: chartreuse;
+                            }
+
+.Ouest   {
+
+    background-color: rgb(255, 0, 255);
+                            }
+
+.Est   {
+
+    background-color: blue;
+                            }
+
